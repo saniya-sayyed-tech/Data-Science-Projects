@@ -1,7 +1,3 @@
-# app.py
-# Run:
-# pip install streamlit pdfplumber scikit-learn nltk
-
 import streamlit as st
 import pdfplumber
 import re
